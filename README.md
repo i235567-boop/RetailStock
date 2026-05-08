@@ -219,5 +219,5 @@ Authorization: Bearer <token>
 - Huda Imran — 23I-5544
 - Fatima Tu Zahra — 23I-5546
 
-**Prepared by**: Arsalan Khan  
+**Course Instructor**: Arsalan Khan  
 **Course**: CS3010 Web Engineering | FAST University Islamabad | FinTech Semester 6
